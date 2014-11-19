@@ -13,6 +13,7 @@
 		"audienceManagerEnabled" : true,
 		"comScoreEnabled" : true,
 		"channel" : "remote sandbox channel",
+		"admsTimeSpentTrackingEnabled" : false,
 		"admsContextData"   : {
 			"contextDataKey1onconfig"    : "testcontextvalue1onconfig",
 			"contextDataKey2onconfig"    : "testcontextvalue2onconfig",
