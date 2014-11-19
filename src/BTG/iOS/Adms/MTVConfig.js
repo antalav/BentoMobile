@@ -1,6 +1,5 @@
 [
 	{
-	
 	"appId" : "mtv_app",
 	"applicationName" : "Mtv iOS App",
 	"ariaEnabled" : true,
@@ -29,10 +28,7 @@
 	"loggingEnabled" : true,
 	"tveEnabled" : false,
 	"isCoppaCompliant" : false,
-		"admsContextData"   : {
-			"contextDataKey1onconfig"    : "testcontextvalue1onconfig",
-			"contextDataKey2onconfig"    : "testcontextvalue2onconfig",
-			"contextDataKey1trackpage"    : "testcontextvalue1onconfig"
-		}
+	"tveContextData" : {},
+	"admsContextData" : {}
 	}
 ]
