@@ -1,8 +1,7 @@
 [
 {
-"pageName" : "dev/bento/remote/testrig",
-"channel" : "remote sandbox channel",
-"prop1" : "remote value of prop 1",
+        "pageName" : "dev/bento/remote/testrig",
+        "prop1" : "remote value of prop 1",
         "prop11" : "remote value of prop 11 track page",
         "prop74" : "remote value of prop 74 track page",
         "prop75" : "remote value of prop 75 track page",
