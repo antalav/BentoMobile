@@ -1,6 +1,7 @@
 [
 	{
-		"linkName" : "dev/bento/link",,
+		"linkName" : "dev/bento/link",
+		"pageName" : "dev/bento/testrig",
 		"channel"  : "remote sandbox channel-test",
 		"prop1"    : "remote value of prop 1",
         "prop11"    : "remote value of prop 11",
@@ -14,8 +15,9 @@
         "eVar74"    : "remote value of evar 74",
         "eVar111"    : "remote value of evar 111",
         "eVar300"    : "remote value of evar 300",
+        "events" : "event1,event2,event3",
         "contextData"   : {
-			"contextDataKey1tacklink" : "testcontextvalue1tracklink",
+			"contextDataKey1tracklink" : "testcontextvalue1tracklink",
 			"contextDataKey2tracklink" : "testcontextvalue2tracklink",
 			"m.testcontext1" : "testcontext1",
 			"nick.game"	: "nickgamecontext"
