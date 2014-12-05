@@ -17,8 +17,8 @@
         "eVar300"    : "remote value of evar 300",
         "events" : "event1,event2,event3",
         "contextData"   : {
-			"contextDataKey1tracklink" : "testcontextvalue1tracklink",
-			"contextDataKey2tracklink" : "testcontextvalue2tracklink",
+			"mylink1" : "testcontextvalue1tracklink1",
+			"mylink2" : "testcontextvalue2tracklink2",
 			"m.testcontext1" : "testcontext1",
 			"nick.game"	: "nickgamecontext"
         }

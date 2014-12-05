@@ -16,7 +16,7 @@
 		"omnitureOfflineHitLimit" : 1000,
 		"demdexEnabled" : "true",
 		"TVEEnabled" : "true",
-		"omnitureContextData" : {"v.dummyContext1":"Klim Test Data","v.dummyContext2":"Klim_test_data", "dummyContext12":"app12","nick.game": "app1"},
+		"omnitureContextData" : {"v.appContext1":"test1","v.appContext2":"test2", "dummyContext12":"app12","nick.game": "app1"},
 		"omnitureTimetrackingEnabled" : "true",
 		"appIsCoppaCompliant" : "false"
 	}
