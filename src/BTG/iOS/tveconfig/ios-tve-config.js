@@ -2,6 +2,7 @@
 	{
 		"admsMeasureEnabled" : true,
 		"admsReportSuiteIDs"   : "viarnd",
+		"audienceManagerEnabled" : true,
 		"tveEnabled" : true,
 		"tveContextData" : {
 			"TVEContextDataSignInStartPageName" : "test_rig_sign_in_start",
