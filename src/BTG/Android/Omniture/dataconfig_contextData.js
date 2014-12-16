@@ -15,6 +15,7 @@
         "eVar74"    : "remote value of evar 74",
         "eVar111"    : "remote value of evar 111",
         "eVar300"    : "remote value of evar 300",
+        "eVar9"	     : ""
         "events" : "event1,event2,event3",
         "contextData"   : {
 			"contextDataKey1trackpage" : "testcontextvalue1trackpage",
