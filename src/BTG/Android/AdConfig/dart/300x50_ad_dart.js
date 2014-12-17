@@ -4,6 +4,7 @@
 		"doubleclickAdSize":"300x50",
 		"doubleclickIsDfp":false,
 		"doubleclickSlotNumber":2,
+		"doubleclickStaticPixelSize": "575x400"
 		"doubleclickDfpData":
         {
             "metadata": {
