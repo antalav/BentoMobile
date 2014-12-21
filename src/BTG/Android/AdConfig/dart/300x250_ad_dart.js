@@ -1,6 +1,6 @@
 [
     {
-	"doubleclickKeyValues":"testmode=celtra_mobile_300x250, mykey=MykeyVaule",
+	"doubleclickKeyValues":"mykey=MykeyVaule",
 	"doubleclickAdSize":"300x250",
 	"doubleclickIsDfp":false,
 	"doubleclickSlotNumber":2,
