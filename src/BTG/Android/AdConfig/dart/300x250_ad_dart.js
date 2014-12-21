@@ -1,6 +1,6 @@
 [
     {
-	"doubleclickKeyValues":"",
+	"doubleclickKeyValues":"TestKeyValue",
 	"doubleclickAdSize":"300x250",
 	"doubleclickIsDfp":false,
 	"doubleclickSlotNumber":2,
