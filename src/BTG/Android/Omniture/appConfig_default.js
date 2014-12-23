@@ -12,7 +12,7 @@
 		"omnitureVisitorID" : "2",
 		"omnitureDebugLogging" : "true",
 		"omnitureOfflineTrackingEnabled" : "true",
-		"omnitureOfflineHitLimit" : 1000,
+		"omnitureOfflineHitLimit" : 25,
 		"demdexEnabled" : "true",
 		"TVEEnabled" : "true",
 		"omnitureTimetrackingEnabled" : "true",
