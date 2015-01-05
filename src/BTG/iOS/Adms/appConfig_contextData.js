@@ -13,7 +13,7 @@
 		"admsOfflineHitLimit" : 25,
 		"audienceManagerEnabled" : true,
 		"comScoreEnabled" : true,
-		"admsTimeSpentTrackingEnabled" : true,
+		"admsTimeSpentTrackingEnabled" : false,
 		"channel" : "remote sandbox channel",
 		"admsContextData"   : {
 			"contextDataKey1onconfig"    : "testcontextvalue1onconfig",
