@@ -10,7 +10,7 @@
 		"admsVisitorID" : "testVID",
 		"admsDebugLoggingEnabled" : true,
 		"admsOfflineTrackingEnabled" : true,
-		"admsOfflineHitLimit" : 2,
+		"admsOfflineHitLimit" : 25,
 		"audienceManagerEnabled" : true,
 		"comScoreEnabled" : true,
 		"admsTimeSpentTrackingEnabled" : false,
