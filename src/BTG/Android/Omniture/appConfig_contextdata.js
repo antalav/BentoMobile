@@ -14,7 +14,7 @@
 		"omnitureDebugLogging" : "true",
 		"omnitureOfflineTrackingEnabled" : "false",
 		"omnitureOfflineHitLimit" : "2",
-		"demdexEnabled" : "true",
+		"demdexEnabled" : "false",
 		"TVEEnabled" : "true",
 		"omnitureContextData" : {
 			"v.appContext1":"test1",
