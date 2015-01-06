@@ -1,7 +1,7 @@
 
 [
 	{
-		"audienceManagerEnabled" : "true",
+		"audienceManagerEnabled" : "false",
 		"omnitureEnabled" : "true",
 		"omnitureSuite"   : "viarnd",
 		"omnitureChannel" : "Test Rig Channel",
