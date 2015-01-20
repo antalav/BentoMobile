@@ -15,7 +15,7 @@
         "eVar111"    : "remote value of evar 111 track page",
         "eVar300"    : "remote value of evar 300 track page",
         "eVar9"	     : "evar9 Test",
-        "hier"	: "test hier"
+        "hier"	: "test hier",
         "channel"  : "remote sandbox channel track page",
         "contextData"   : {
             "contextDataKey1trackpage"    : "testcontextvalue1trackpage",
