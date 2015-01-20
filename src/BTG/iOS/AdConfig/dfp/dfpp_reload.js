@@ -18,7 +18,7 @@
 			"refreshInterval" : 10,
 			"enableDefaultBumper" : true,
 			"enableCoppaAdBanner" : true,
-			"slot" : 1,
+			"slot" : 2,
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
