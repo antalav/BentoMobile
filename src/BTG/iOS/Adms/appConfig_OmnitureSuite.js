@@ -6,7 +6,7 @@
 		"admsCurrencyCode" : "USD-TEST",
 		"admsSslEnabled" : true,
 		"admsLifecycleSessionTimeout" : 300,
-		"admsTrackingServer" : "",
+		"admsTrackingServer" : "Test.mtv.com",
 		"admsVisitorID" : "Test Visitor ID",
 		"admsDebugLoggingEnabled" : false,
 		"admsOfflineTrackingEnabled" : false,
