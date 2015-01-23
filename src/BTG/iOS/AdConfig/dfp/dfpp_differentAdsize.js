@@ -1,11 +1,5 @@
 [
 	{
-		"config" : {
-			"isCoppaCompliant" : false,
-                         "audienceManagerEnabled": true,
-                         "comScoreEnabled" : true
-
-		},
 		"adData" : {
 			"x" : 0,
 			"y"   : 0,
