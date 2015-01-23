@@ -10,7 +10,7 @@
 			"isDFP" : false,
 			"enableCloseButton" : false,
 			"closeButtonInterval" : 5,
-			"isRefreshable" : false,
+			"isRefreshable" : true,
 			"refreshInterval" : 10,
 			"slot" : 21,
 			"keyValues" : {
