@@ -2,7 +2,7 @@
 	{
 		
         	 "config" : {
-        		 "isCoppaCompliant" : false,
+        		 "isCoppaCompliant" : true,
         		 "audienceManagerEnabled": true
         	 },
 		"adData" : {
@@ -18,6 +18,8 @@
 			"isRefreshable" : true,
 			"refreshInterval" : 10,
 			"slot" : 21,
+			"enableDefaultBumper" : true,
+			"enableCoppaAdBanner" :	true,
 			"keyValues" : {
 				"testkey"   : "key2.1",
 				"testmode" : "celtra_mobile_300x250"
