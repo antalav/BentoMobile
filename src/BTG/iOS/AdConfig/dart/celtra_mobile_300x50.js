@@ -1,8 +1,5 @@
 [
 	{
-		"config" : {
-			"isCoppaCompliant" : true
-		},
 		"adData" : {
 			"x" : 0,
 			"y"   : 0,
