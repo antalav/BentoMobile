@@ -17,6 +17,7 @@
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
+				"excl_cat" : "vtest",
 				"testmode" : "celtra_mobile_300x50"
 			},
 			"keychainKeyValues" : {
