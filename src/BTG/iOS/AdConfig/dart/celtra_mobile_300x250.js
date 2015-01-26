@@ -13,7 +13,7 @@
 			"appName" : "btg_test_app",
 			"sections" : "/test/mobile300-250",
 			"isDFP" : false,
-			"enableCloseButton" : true,
+			"enableCloseButton" : false,
 			"closeButtonInterval" : 5,
 			"isRefreshable" : true,
 			"refreshInterval" : 10,
