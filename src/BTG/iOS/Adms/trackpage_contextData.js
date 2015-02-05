@@ -18,6 +18,7 @@
         "hier1"	: "test",
         "events" : "event1, event2, event3",
         "channel"  : "remote sandbox channel track page",
+        "trackingData" : {"apiKey" : "12345"},
         "contextData"   : {
             "contextDataKey1trackpage"    : "testcontextvalue1trackpage",
             "contextDataKey2trackpage"    : "testcontextvalue2trackpage",
