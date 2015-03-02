@@ -16,7 +16,7 @@
         "eVar111"    : "remote value of evar 111",
         "eVar300"    : "remote value of evar 300",
         "eVar9"	     : "event9value",
-        "trackingData" : {"xrs" : "12345"}
+        "trackingData" : {"xrs" : "12345"},
         "events" : "event1,event2,event3",
         "hier1" : "test",
         "contextData"   : {
