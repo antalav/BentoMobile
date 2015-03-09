@@ -16,6 +16,7 @@
         "eVar300"    : "remote value of evar 300 tracklink",
         "channel"  : "remote sandbox channel",
         "events" : "event1,event2,event3,event22",
+         "trackingData" : {"xrs" : "12345"},
         "contextData"   : {
             "contextDataKey4tracklink"    : "testcontextvalue4Link",
             "contextDataKey5tracklink"    : "testcontextvalue5Link"
