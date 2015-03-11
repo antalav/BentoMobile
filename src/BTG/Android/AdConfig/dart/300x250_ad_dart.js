@@ -1,6 +1,6 @@
 [
     {
-	"doubleclickKeyValues":"mykey=MykeyVaule",
+	"doubleclickKeyValues":"testmode=sizmek_mraid_300x250",
 	"doubleclickAdSize":"300x250",
 	"doubleclickIsDfp":false,
 	"doubleclickSlotNumber":2,
