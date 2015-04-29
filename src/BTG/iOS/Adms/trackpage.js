@@ -13,7 +13,7 @@
         "eVar74" : "remote value of evar 74 track page",
         "eVar111" : "remote value of evar 111 track page",
         "eVar300" : "remote value of evar 300 track page",
-        "channel" : "remote sandbox channel track page",
+        "channel" : "Dserra remote sandbox channel track page",
         "events" : "event1,event2,event3"
 }
 ]
